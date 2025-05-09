@@ -2,7 +2,7 @@
  
 > **更新时间： 2025/05/09**           
 
-本文提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.chat)**，提升工作效率。
+本文提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.chat)**，提升工作效率。 
 
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.chat)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 

@@ -1,12 +1,12 @@
 # ChatGPT 中文版：国内直连指南（支持GPT-4、4o、o1、o3 和 Claude3.7、Grok3、DeepSeek R1，无需翻墙）【5月最新更新】
  
-> **更新时间： 2025/05/15**              
+> **更新时间： 2025/05/29**              
 
 本文提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://snakegpt.com.cn)**，提升工作效率。 
 
 本项目旨在为用户提供一站式的 **[ChatGPT 中文版](https://snakegpt.com.cn)使用指南**，同时整理了国内可用的 **ChatGPT镜像网站** 和 **官网使用教程**，帮助您快速上手 ChatGPT，无论是个人使用还是专业需求。
 
-ChatGPT 中文版：**[chat2.gptcat.cc](https://chat2.gptcat.cc)**   
+ChatGPT 中文版：**[gptcat.cc](https://gptcat.cc)**   
 ChatGPT 镜像网站：**[snakegpt.com.cn](https://snakegpt.com.cn)**
 
 ---
